@@ -1,0 +1,8 @@
+D:\Users\Saulete\Desktop\Cosas\creaciones mias\artifact suerte\PruebasVentana\PruebasVentana\x64\Debug\PruebasVentana.vcxprojAssemblyReference.cache
+D:\Users\Saulete\Desktop\Cosas\creaciones mias\artifact suerte\PruebasVentana\PruebasVentana\x64\Debug\PruebasVentana.Form1.resources
+D:\Users\Saulete\Desktop\Cosas\creaciones mias\artifact suerte\PruebasVentana\PruebasVentana\x64\Debug\PruebasVentana.Form2.resources
+D:\Users\Saulete\Desktop\Cosas\creaciones mias\artifact suerte\PruebasVentana\PruebasVentana\x64\Debug\PruebasVentana.vcxproj.GenerateResource.cache
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\x64\Debug\PruebasVentana.vcxprojAssemblyReference.cache
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\x64\Debug\PruebasVentana.Form1.resources
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\x64\Debug\PruebasVentana.Form2.resources
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\x64\Debug\PruebasVentana.vcxproj.GenerateResource.cache

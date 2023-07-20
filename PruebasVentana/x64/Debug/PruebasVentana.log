@@ -1,0 +1,79 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (PruebasVentana.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(72,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(83,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(94,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(105,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(116,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(162,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(173,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(184,33): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(195,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(206,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(217,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(228,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(239,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(250,34): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(261,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(272,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(318,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(329,34): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(340,34): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(351,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(362,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(373,34): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(384,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(471,40): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(482,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(493,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(504,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(515,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(526,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(537,41): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(548,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(559,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(643,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(654,34): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(665,34): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(676,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(687,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(698,40): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(709,44): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(720,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(731,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(815,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(826,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(837,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(848,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(859,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(870,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(881,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(892,41): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(903,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(914,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(998,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(1009,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(1020,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(1031,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(1042,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(1053,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(1064,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(1075,41): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(1086,40): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(1705,40): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(2990,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(3004,34): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(3014,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Form1.cpp
+  Form2.cpp
+  Generando código...
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(127): warning C4715: 'CppCLRWinformsProjekt::mainStatReloj': no todas las rutas de acceso de control devuelven un valor
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(283): warning C4715: 'CppCLRWinformsProjekt::mainStatCaliz': no todas las rutas de acceso de control devuelven un valor
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(395): warning C4715: 'CppCLRWinformsProjekt::mainStatTiara': no todas las rutas de acceso de control devuelven un valor
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(1098): warning C4715: 'CppCLRWinformsProjekt::generadorSubstats': no todas las rutas de acceso de control devuelven un valor
+D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\PruebasVentana\Form1.h(1349): warning C4715: 'CppCLRWinformsProjekt::generarIDsVerdaderos': no todas las rutas de acceso de control devuelven un valor
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PruebasVentana.vcxproj -> D:\Users\Saulete\Desktop\Cosas\Creaciones varias\artifact suerte\PruebasVentana\x64\Debug\SimuladorArtefactos.exe

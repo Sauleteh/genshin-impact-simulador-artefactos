@@ -1,0 +1,4 @@
+C:\Users\saulj_000\Desktop\Cosas\creaciones mias\artifact suerte\PruebasVentana\PruebasVentana\Debug\PruebasVentana.vcxprojAssemblyReference.cache
+C:\Users\saulj_000\Desktop\Cosas\creaciones mias\artifact suerte\PruebasVentana\PruebasVentana\Debug\PruebasVentana.Form1.resources
+C:\Users\saulj_000\Desktop\Cosas\creaciones mias\artifact suerte\PruebasVentana\PruebasVentana\Debug\PruebasVentana.vcxproj.GenerateResource.cache
+C:\Users\saulj_000\Desktop\Cosas\creaciones mias\artifact suerte\PruebasVentana\PruebasVentana\Debug\PruebasVentana.Form2.resources
